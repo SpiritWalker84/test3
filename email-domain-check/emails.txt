@@ -1,0 +1,5 @@
+user@gmail.com
+test@yahoo.com
+admin@outlook.com
+info@nonexistent12345.xyz
+contact@mail.ru
